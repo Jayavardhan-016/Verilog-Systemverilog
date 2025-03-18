@@ -1,0 +1,7 @@
+THE SPECIFICATIONS OF THIS VENDING MANCHINE
+
+  > The machine will take only one coin at a time.
+  > We can enter mutilple coins one after another, insert those coin inputs through testbench.
+  > For every $5 u should get 1 choclate if $10-2 if $15-3 like that.
+  > U shold get the remaining change after buying the choclates for $5 each.
+  > The total amount u entered should be displayed. for the aknowledgement of user
