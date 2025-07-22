@@ -10,7 +10,7 @@ Though this repo does **not contain actual `.v` source code**, it visually showc
 
 - **Verilog HDL (RTL + Testbench)**
 - **Simulation Tools**: ModelSim / QuestaSim / Vivado / EDA Playground
-- **Waveform Visualization**: GTKWave / ModelSim Waveform Viewer
+- **Waveform Visualization**: EDA Waveform Viewer
 - **Screenshots**: Code, testbench, output results, and waveforms
 
 ---
@@ -41,7 +41,7 @@ Though this repo does **not contain actual `.v` source code**, it visually showc
 | 20  | Welcome to My Profile (Display)        | Creative waveform/LED display logic         |
 | 21  | 16:1 Demux                             | One input routed to 16 outputs              |
 | 22  | 4-Bit Comparator                       | Compares 2 numbers: greater, equal, less    |
-| 23  | Frequency Divider by 3                 | Clock divider using mod-3 counter           |
+| 23  | Frequency Divider by 6                 | Clock divider using mod-6 counter           |
 | 24  | Binary Analyzer                        | Checks MSB, LSB, even/odd, parity, etc.     |
 | 25  | Thermostat (FSM)                       | FSM simulating thermostat behavior          |
 
