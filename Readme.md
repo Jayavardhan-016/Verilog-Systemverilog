@@ -82,7 +82,7 @@ Each day's folder contains **screenshots** of:
 
 Want to collaborate, learn Verilog, or explore RTL design?
 
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/nakkajayavardhan/))
+- [LinkedIn](https://linkedin.com/in/nakkajayavardhan) 
 - 📧 vardhanjaya988@gmail.com
 - ⭐ Star the repo if you find it helpful!
 
